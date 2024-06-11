@@ -27,6 +27,7 @@ Key Tasks:
 ‣ Load data into Python and Excel.<br>
 ‣ Display the first few rows.<br>
 ‣ Summarize data types and basic statistics.<br><br>
+![Data Loading](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Loading.png)
 
 
 ◈ Module 2: Data Cleaning
