@@ -19,7 +19,7 @@ Modules
 <br>
 
 
-• Module 1: Data Loading and Initial Exploration
+◈ Module 1: Data Loading and Initial Exploration
 In this module, we loaded the Netflix dataset into Python and Excel to inspect its structure and contents. The initial exploration involved displaying the first few rows and summarizing the dataset to understand its structure, data types, and basic statistics.
 
 Key Tasks:
