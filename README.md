@@ -29,7 +29,7 @@ Key Tasks:
 ‣ Summarize data types and basic statistics.<br><br>
 
 
-Module 2: Data Cleaning
+◈ Module 2: Data Cleaning
 Data cleaning was performed to handle missing values, remove duplicates, and correct data types. Missing values were handled by filling them with appropriate values or removing rows/columns with excessive missing data.
 
 Key Tasks:
@@ -39,7 +39,7 @@ Key Tasks:
 ‣ Correct data types.<br><br>
 
 
-Module 3: Data Transformation
+◈ Module 3: Data Transformation
 This module involved creating new features and standardizing categorical variables. For instance, we extracted the year and month from the date_added field and standardized country names and categories.
 
 Key Tasks:
@@ -48,7 +48,7 @@ Key Tasks:
 ‣ Standardize categorical variables.<br><br>
 
 
-Module 4: Data Analysis using SQL
+◈ Module 4: Data Analysis using SQL
 The cleaned dataset was imported into a SQL database for deeper analysis. Various SQL queries were performed to extract meaningful insights such as the count of movies and TV shows, most common genres, and yearly trends of content addition.
 
 Key Tasks:
@@ -60,7 +60,7 @@ Key Tasks:
 ‣ Most common genres.<br>
 ‣ Distribution of content by country.<br><br>
 
-Module 5: Exploratory Data Analysis (EDA) in Python
+◈ Module 5: Exploratory Data Analysis (EDA) in Python
 EDA was performed using Python libraries such as Pandas, Matplotlib, and Seaborn. This module analyzed the distribution of content types, relationships between features, trends over time, and content ratings.
 
 Key Tasks:
@@ -71,7 +71,7 @@ Key Tasks:
 ‣ Analyze the distribution of content ratings.<br><br>
 
 
-Module 6: Data Visualization in Tableau
+◈ Module 6: Data Visualization in Tableau
 Interactive dashboards were created using Tableau to visualize key insights from the dataset. These visualizations included the number of movies and TV shows over the years, geographic distribution of content, popular genres, and ratings distribution.
 
 Key Tasks:
@@ -83,7 +83,7 @@ Key Tasks:
 ‣ Ratings distribution and its correlation with other features.<br> <br>
 
 
-Module 7: Statistical Analysis
+◈ Module 7: Statistical Analysis
 Basic statistical analysis was performed to derive additional insights. This included descriptive statistics, correlation analysis between numerical features, and hypothesis testing where relevant.
 
 Key Tasks:
