@@ -106,6 +106,7 @@ Key Tasks:
 ‣ Conduct correlation analysis.<br>
 ‣ Perform hypothesis testing.<br>
 
+![Stats](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Stats.png)
 
 
 
