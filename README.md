@@ -22,9 +22,9 @@ In this module, we loaded the Netflix dataset into Python and Excel to inspect i
 
 Key Tasks:
 
-Load data into Python and Excel.<br>
-Display the first few rows.<br>
-Summarize data types and basic statistics.<br>
+‣ Load data into Python and Excel.<br>
+‣ Display the first few rows.<br>
+‣ Summarize data types and basic statistics.<br><br>
 
 
 Module 2: Data Cleaning
@@ -32,9 +32,9 @@ Data cleaning was performed to handle missing values, remove duplicates, and cor
 
 Key Tasks:
 
-Identify and handle missing values.<br>
-Remove duplicate entries.<br>
-Correct data types.<br>
+‣ Identify and handle missing values.<br>
+‣ Remove duplicate entries.<br>
+‣ Correct data types.<br><br>
 
 
 Module 3: Data Transformation
@@ -42,8 +42,8 @@ This module involved creating new features and standardizing categorical variabl
 
 Key Tasks:
 
-Create new features (e.g., extract year and month from date_added).<br>
-Standardize categorical variables.<br>
+‣ Create new features (e.g., extract year and month from date_added).<br>
+‣ Standardize categorical variables.<br><br>
 
 
 Module 4: Data Analysis using SQL
@@ -51,22 +51,22 @@ The cleaned dataset was imported into a SQL database for deeper analysis. Variou
 
 Key Tasks:
 
-Import dataset into SQL.<br>
-Perform queries to extract insights.<br>
-Count of movies and TV shows.<br>
-Yearly trend of content addition.<br>
-Most common genres.<br>
-Distribution of content by country.<br>
+‣ Import dataset into SQL.<br>
+‣ Perform queries to extract insights.<br>
+‣ Count of movies and TV shows.<br>
+‣ Yearly trend of content addition.<br>
+‣ Most common genres.<br>
+‣ Distribution of content by country.<br><br>
 
 Module 5: Exploratory Data Analysis (EDA) in Python
 EDA was performed using Python libraries such as Pandas, Matplotlib, and Seaborn. This module analyzed the distribution of content types, relationships between features, trends over time, and content ratings.
 
 Key Tasks:
 
-Analyze the distribution of content types.<br>
-Study the relationship between features.<br>
-Identify trends over time.<br>
-Analyze the distribution of content ratings.<br>
+‣ Analyze the distribution of content types.<br>
+‣ Study the relationship between features.<br>
+‣ Identify trends over time.<br>
+‣ Analyze the distribution of content ratings.<br><br>
 
 
 Module 6: Data Visualization in Tableau
@@ -74,11 +74,11 @@ Interactive dashboards were created using Tableau to visualize key insights from
 
 Key Tasks:
 
-Create interactive Tableau dashboards.<br>
-Number of movies and TV shows over the years.<br>
-Geographic distribution of content.<br>
-Popular genres and their distribution.<br>
-Ratings distribution and its correlation with other features.<br>
+‣ Create interactive Tableau dashboards.<br>
+‣ Number of movies and TV shows over the years.<br>
+‣ Geographic distribution of content.<br>
+‣ Popular genres and their distribution.<br>
+‣ Ratings distribution and its correlation with other features.<br> <br>
 
 
 Module 7: Statistical Analysis
@@ -86,9 +86,9 @@ Basic statistical analysis was performed to derive additional insights. This inc
 
 Key Tasks:
 
-Perform descriptive statistics (mean, median, mode).<br>
-Conduct correlation analysis.<br>
-Perform hypothesis testing.<br>
+‣ Perform descriptive statistics (mean, median, mode).<br>
+‣ Conduct correlation analysis.<br>
+‣ Perform hypothesis testing.<br>
 
 
 
