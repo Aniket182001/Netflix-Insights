@@ -81,6 +81,10 @@ Key Tasks:
 ‣ Study the relationship between features.<br>
 ‣ Identify trends over time.<br>
 ‣ Analyze the distribution of content ratings.<br><br>
+![EDA1](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/EDA1.png)
+![EDA2](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/EDA2.png)
+![EDA3](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/EDA3.png)
+
 
 <h4 align="center">◈ Module 6: Data Visualization in Tableau</h4>
 
