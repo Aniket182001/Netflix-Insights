@@ -16,16 +16,17 @@
 Netflix Insights is a data analysis project that explores and visualizes Netflix's content library. Using Python 🐍, SQL 🗃️, and Tableau 📈, it covers data cleaning, transformation, exploratory data analysis, and interactive dashboard creation to reveal trends and insights in Netflix's movies 🎬 and TV shows 📺.
 
 Modules
+<br>
 Module 1: Data Loading and Initial Exploration
 In this module, we loaded the Netflix dataset into Python and Excel to inspect its structure and contents. The initial exploration involved displaying the first few rows and summarizing the dataset to understand its structure, data types, and basic statistics.
 
 Key Tasks:
 
-Load data into Python and Excel.
-Display the first few rows.
-Summarize data types and basic statistics.
-Module 2: Data Cleaning
-Data cleaning was performed to handle missing values, remove duplicates, and correct data types. Missing values were handled by filling them with appropriate values or removing rows/columns with excessive missing data.
+Load data into Python and Excel.<br>
+Display the first few rows.<br>
+Summarize data types and basic statistics.<br>
+Module 2: Data Cleaning<br>
+Data cleaning was performed to handle missing values, remove duplicates, and correct data types. Missing values were handled by filling them with appropriate values or removing rows/columns with excessive missing data.<br>
 
 Key Tasks:
 
