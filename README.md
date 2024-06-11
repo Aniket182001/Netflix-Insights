@@ -25,59 +25,70 @@ Key Tasks:
 Load data into Python and Excel.<br>
 Display the first few rows.<br>
 Summarize data types and basic statistics.<br>
-Module 2: Data Cleaning<br>
-Data cleaning was performed to handle missing values, remove duplicates, and correct data types. Missing values were handled by filling them with appropriate values or removing rows/columns with excessive missing data.<br>
+
+
+Module 2: Data Cleaning
+Data cleaning was performed to handle missing values, remove duplicates, and correct data types. Missing values were handled by filling them with appropriate values or removing rows/columns with excessive missing data.
 
 Key Tasks:
 
-Identify and handle missing values.
-Remove duplicate entries.
-Correct data types.
+Identify and handle missing values.<br>
+Remove duplicate entries.<br>
+Correct data types.<br>
+
+
 Module 3: Data Transformation
 This module involved creating new features and standardizing categorical variables. For instance, we extracted the year and month from the date_added field and standardized country names and categories.
 
 Key Tasks:
 
-Create new features (e.g., extract year and month from date_added).
-Standardize categorical variables.
+Create new features (e.g., extract year and month from date_added).<br>
+Standardize categorical variables.<br>
+
+
 Module 4: Data Analysis using SQL
 The cleaned dataset was imported into a SQL database for deeper analysis. Various SQL queries were performed to extract meaningful insights such as the count of movies and TV shows, most common genres, and yearly trends of content addition.
 
 Key Tasks:
 
-Import dataset into SQL.
-Perform queries to extract insights.
-Count of movies and TV shows.
-Yearly trend of content addition.
-Most common genres.
-Distribution of content by country.
+Import dataset into SQL.<br>
+Perform queries to extract insights.<br>
+Count of movies and TV shows.<br>
+Yearly trend of content addition.<br>
+Most common genres.<br>
+Distribution of content by country.<br>
+
 Module 5: Exploratory Data Analysis (EDA) in Python
 EDA was performed using Python libraries such as Pandas, Matplotlib, and Seaborn. This module analyzed the distribution of content types, relationships between features, trends over time, and content ratings.
 
 Key Tasks:
 
-Analyze the distribution of content types.
-Study the relationship between features.
-Identify trends over time.
-Analyze the distribution of content ratings.
+Analyze the distribution of content types.<br>
+Study the relationship between features.<br>
+Identify trends over time.<br>
+Analyze the distribution of content ratings.<br>
+
+
 Module 6: Data Visualization in Tableau
 Interactive dashboards were created using Tableau to visualize key insights from the dataset. These visualizations included the number of movies and TV shows over the years, geographic distribution of content, popular genres, and ratings distribution.
 
 Key Tasks:
 
-Create interactive Tableau dashboards.
-Number of movies and TV shows over the years.
-Geographic distribution of content.
-Popular genres and their distribution.
-Ratings distribution and its correlation with other features.
+Create interactive Tableau dashboards.<br>
+Number of movies and TV shows over the years.<br>
+Geographic distribution of content.<br>
+Popular genres and their distribution.<br>
+Ratings distribution and its correlation with other features.<br>
+
+
 Module 7: Statistical Analysis
 Basic statistical analysis was performed to derive additional insights. This included descriptive statistics, correlation analysis between numerical features, and hypothesis testing where relevant.
 
 Key Tasks:
 
-Perform descriptive statistics (mean, median, mode).
-Conduct correlation analysis.
-Perform hypothesis testing.
+Perform descriptive statistics (mean, median, mode).<br>
+Conduct correlation analysis.<br>
+Perform hypothesis testing.<br>
 
 
 
