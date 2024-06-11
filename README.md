@@ -17,9 +17,6 @@ Netflix Insights is a data analysis project that explores and visualizes Netflix
 
 <h4 align="center">◈ Module 1: Data Loading and Initial Exploration</h4>
 
-<br>
-
-
 In this module, we loaded the Netflix dataset into Python and Excel to inspect its structure and contents. The initial exploration involved displaying the first few rows and summarizing the dataset to understand its structure, data types, and basic statistics.
 
 Key Tasks:
