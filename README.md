@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket182001&label=Profile%20views&color=0e75b6&style=flat" alt="aniket182001" /> </p>
 
-- 🔭 I’m currently working on [HR Analytics using PwerBi](https://github.com/Aniket182001/Netflix-Insights)
+- 🔭 I’m currently working on [Netflix Insights](https://github.com/Aniket182001/Netflix-Insights)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aniket182001](https://github.com/Aniket182001)
 
