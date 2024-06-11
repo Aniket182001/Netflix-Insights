@@ -60,6 +60,15 @@ Key Tasks:
 ‣ Yearly trend of content addition.<br>
 ‣ Most common genres.<br>
 ‣ Distribution of content by country.<br><br>
+![Data Cleaning 1](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%201.png)
+![Data Cleaning 2](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%202.png)
+![Data Cleaning 3](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%203.png)
+![Data Cleaning 4](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%204.png)
+![Data Cleaning 5](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%205.png)
+![Data Cleaning 6](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%206.png)
+![Data Cleaning 7](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%207.png)
+![Data Cleaning 8](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%208.png)
+
 
 <h4 align="center">◈ Module 5: Exploratory Data Analysis (EDA) in Python</h4>
 
