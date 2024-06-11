@@ -82,6 +82,8 @@ Key Tasks:
 ‣ Popular genres and their distribution.<br>
 ‣ Ratings distribution and its correlation with other features.<br> <br>
 
+![Dashboard](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/DashBoard.png)
+
 
 ◈ Module 7: Statistical Analysis
 Basic statistical analysis was performed to derive additional insights. This included descriptive statistics, correlation analysis between numerical features, and hypothesis testing where relevant.
