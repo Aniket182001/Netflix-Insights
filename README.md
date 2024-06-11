@@ -35,6 +35,9 @@ Key Tasks:
 ‣ Identify and handle missing values.<br>
 ‣ Remove duplicate entries.<br>
 ‣ Correct data types.<br><br>
+![Data Cleaning 1](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%201.png)
+![Data Cleaning 2](https://raw.githubusercontent.com/Aniket182001/ScreenShots/main/Data%20Cleaning%202.png)
+<br><br>
 
 <h4 align="center">◈ Module 3: Data Transformation</h4>
 
