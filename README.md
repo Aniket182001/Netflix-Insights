@@ -15,7 +15,7 @@
 
 Netflix Insights is a data analysis project that explores and visualizes Netflix's content library. Using Python 🐍, SQL 🗃️, and Tableau 📈, it covers data cleaning, transformation, exploratory data analysis, and interactive dashboard creation to reveal trends and insights in Netflix's movies 🎬 and TV shows 📺.
 
-<h2 align="center">Modules</h2>
+<h4 align="center">Modules</h4>
 
 <br>
 
